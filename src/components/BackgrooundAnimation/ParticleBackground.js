@@ -1,6 +1,6 @@
 import React
  from "react";
- import Particles from "react-particles-js"
+ import Particles from "tsparticles"
  import particlesConfig from "./particleConfig";
 
 

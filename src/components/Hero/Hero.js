@@ -3,7 +3,6 @@ import React from 'react';
 import { Section, SectionText, SectionTitle,Img, ProfileImg} from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
-import Particles from "react-particles-js"
 import particlesConfig from "../../../src/components/BackgrooundAnimation/particleConfig";
 import ParticleBackground from '../../../src/components/BackgrooundAnimation/ParticleBackground';
 
