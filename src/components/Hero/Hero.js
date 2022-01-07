@@ -5,7 +5,6 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 import Particles from "react-particles-js"
 import particlesConfig from "../../../src/components/BackgrooundAnimation/particleConfig";
-import Image from 'next/image';
 import ParticleBackground from '../../../src/components/BackgrooundAnimation/ParticleBackground';
 
 const Hero = (props) => (
