@@ -17,6 +17,11 @@ const Header = () =>  (
       </Link>
     </Div1>
 <Div2>
+<li>
+    <Link href="#about">
+      <NavLink>Hobbies</NavLink>
+    </Link>
+  </li>
   <li>
     <Link href="#projects">
       <NavLink>Projects</NavLink>
@@ -27,11 +32,7 @@ const Header = () =>  (
       <NavLink>Skills</NavLink>
     </Link>
   </li>  
-  <li>
-    <Link href="#about">
-      <NavLink>Hobbies</NavLink>
-    </Link>
-  </li>
+ 
 </Div2>
 <Div3>
   <SocialIcons href = "https://github.com">
