@@ -21,10 +21,10 @@ const Footer = () => {
      <SocialIcons href = "https://github.com">
     <AiFillGithub size ="3rem"/>
   </SocialIcons>
-  <SocialIcons href = "https://facebook.com">
-  <AiFillFacebook size ="3rem"/>
+  <SocialIcons href = "https://www.facebook.com/uzukhanye.nohe.1/">
+    <AiFillFacebook size ="3rem"/>
   </SocialIcons>
-  <SocialIcons href = "https://instagram.com">
+  <SocialIcons href = "https://www.instagram.com/uzi.the.shooter_8/">
     <AiFillInstagram size ="3rem"/>
   </SocialIcons>
      </SocialContainer>
