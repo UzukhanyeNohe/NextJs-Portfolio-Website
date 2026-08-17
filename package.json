@@ -1,0 +1,9 @@
+{
+  "name": "curious-study-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Curious Incident of the Dog in the Night-Time — Grade 10 IEB study pack",
+  "engines": {
+    "node": "24.x"
+  }
+}
